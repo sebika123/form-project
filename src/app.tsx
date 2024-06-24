@@ -11,7 +11,7 @@ export function App() {
     <>
     <Navbar/>
 <Home/>
-<Footer/>
+{/* <Footer/> */}
     </>
   )
 }
